@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+}
+.shamema{
+    color: blueviolet;
+    font-size: 40px;
+}
+.div-div{
+    float: left;
+    width: 40%;
+    margin: 5%;
+    padding: 2%;
+}
+.div-div img{
+    width: 50%;
+}
+.first-banner{
+    background-image:;
+}
+.btn{
+    background-color: #e00f3263;
+    color:red;
+    text-decoration: none;
+    margin: top 60px;
+    padding: 5px 5px;
+}
+.image{
+    width: 40%;
+    height:100px;
+}
+
+.h3{
+    color: blueviolet;
+}
+.medical-assistant{
+    box-shadow: 8px 8px 35px grey;
+    border-radius: 8px;
+    height: 50%;
+    background-color:white ;
+    border-top: 7px solid blueviolet;
+}
+.experience-title{
+    text-align: center;
+}
+.footer{
+  text-align: center;
+  background-color: rgb(130, 180, 228);
+  width:100%;
+  height:auto;
+  color: white;
+}
